@@ -1,9 +1,6 @@
 from django.contrib import admin
 from .models import Province, District, LocalGovernment
 
-# Register your models here.
-
-
 
 admin.site.register(Province)
 
